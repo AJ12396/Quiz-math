@@ -1,0 +1,12 @@
+body{
+    background-image: url("montanha.jpg");
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+   
+input, button{
+    border-radius: 8px;
+    background: transparent;
+    width: 60%;
+}
